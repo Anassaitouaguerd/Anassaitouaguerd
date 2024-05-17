@@ -18,10 +18,6 @@
 </p>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  # Project Name
-
 ## Technologies Used
 
 ### Backend
@@ -52,8 +48,6 @@
 ### Programming Languages
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 
-
-</p>
 
 
 
