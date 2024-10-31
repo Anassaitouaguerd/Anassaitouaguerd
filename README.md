@@ -1,60 +1,120 @@
-<h1 align="center">Hi 👋, I'm Anass ait Ouaguerd</h1>
-<h3 align="center">Developer Full Stuck from Morocco</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anass+ait+Ouaguerd!;Full+Stack+Developer;Java+%26+React+Specialist" />
+</h1>
 
-<hr>
+<h3 align="center">🚀 Full Stack Developer from Morocco | Student @YouCode - UM6P 🌟</h3>
 
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" style="float: right; border-radius: 10px;">
+<br/>
+
+<div align="center">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anassaitouaguerd&label=Profile%20views&color=0e75b6&style=flat" alt="anassaitouaguerd" /> </p>
+ 🔭 I'm currently working on **iMasteryLab - E-learning Platform**
+ 
+ 🌱 I'm currently learning **Advanced Java & Cloud Technologies**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 📫 How to reach me: **aitouaguerdanass@gmail.com**
 
-- 🔭 I’m currently working on **Platformm E-learning**
+ 📱 Call me: **+212697896452**
+ 
+ 💬 Ask me about **Java, React, Laravel, Docker... or anything [here](https://github.com/anassaitouaguerd/anassaitouaguerd/issues)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anass ait ouageurd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anass ait ouageurd" height="30" width="40" /></a>
-<a href="https://instagram.com/anass_aod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anass_aod" height="30" width="40" /></a>
-</p>
-<hr>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:aitouaguerdanass@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/anass-ait-ouageurd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anass_aod" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-## Technologies Used
+<hr/>
 
-### Backend
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<div align="center">
+  <a href="https://github.com/Anassaitouaguerd/DevSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anassaitouaguerd&repo=DevSync&theme=react" />
+  </a>
+  <a href="https://github.com/Anassaitouaguerd/BatiCuisine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anassaitouaguerd&repo=BatiCuisine&theme=react" />
+  </a>
+</div>
 
-### Frontend
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
+<br/>
+ 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <h3>Backend Development</h3>
+    <img src="https://skillicons.dev/icons?i=java,spring,mongodb,laravel,php,mysql,postgresql" />
+    <br/>
+    <h3>Frontend Development</h3>
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap,tailwind" /><br>
+    <h3>DevOps & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,figma,postman,maven" />
+</div>
 
-### DevOps
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+<br/>
+<hr/>
 
-### Tools
-- ![StarUML](https://img.shields.io/badge/-StarUML-333333?logo=staruml&logoColor=white&style=flat-square)
-- ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
-- ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat-square)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+<h2 align="center">🎯 Professional Experience 🎯</h2>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Full Stack Developer Intern</strong></td>
+      <td>Alef Digital Solutions, Casablanca</td>
+      <td>Mai-2024 - Août-2024</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        • Developed iMasteryLab - a comprehensive e-learning platform<br/>
+        • Built scalable backend with Laravel & MySQL<br/>
+        • Implemented responsive frontend using React.js
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Programming Languages
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+<br/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
 
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=anassaitouaguerd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=anassaitouaguerd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anassaitouaguerd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<hr>
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anassaitouaguerd&show_icons=true&locale=en&layout=compact" alt="anassaitouaguerd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anassaitouaguerd&show_icons=true&locale=en" alt="anassaitouaguerd" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anassaitouaguerd&" alt="anassaitouaguerd" /></p>
+<hr/>
 
+<div align="center">
+  <h2>🎓 Education</h2>
+  <p><strong>YouCode - UM6P</strong> | Full Stack Developer Training | 2023 - Present</p>
+  <p><strong>Lycée Iguig El Ksiba</strong> | Baccalauréat in Physical & Chemical Sciences | 2021 - 2022</p>
+</div>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+build+something+amazing+together!;Open+to+new+opportunities+:)">
+</h3>
+
+<br/>
