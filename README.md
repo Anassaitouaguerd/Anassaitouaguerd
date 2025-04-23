@@ -2,15 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Anass+ait+Ouaguerd!;Full+Stack+Developer;Java+%26+Angular+Specialist" />
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer from Morocco | Student @YouCode - UM6P 🌟</h3>
+<h3 align="center">🚀 Full Stack Developer from Morocco </h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I'm currently working on **iMasteryLab - E-learning Platform**
- 
- 🌱 I'm currently learning **Advanced Java & Cloud Technologies**
 
  📫 How to reach me: **aitouaguerdanass@gmail.com**
 
@@ -80,16 +76,6 @@
   </table>
 </div>
 
-<br/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -107,7 +93,7 @@
 
 <div align="center">
   <h2>🎓 Education</h2>
-  <p><strong>YouCode - UM6P</strong> | Full Stack Developer Training | 2023 - Present</p>
+  <p><strong>YouCode - UM6P</strong> | Full Stack Developer Training | 2023 - 2025 </p>
   <p><strong>Lycée Iguig El Ksiba</strong> | Baccalauréat in Physical & Chemical Sciences | 2021 - 2022</p>
 </div>
 
